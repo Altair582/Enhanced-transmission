@@ -3,6 +3,7 @@
  */
 
 #include "ns3/core-module.h"
+#include "ns3/log.h"
 
 using namespace ns3;
 
